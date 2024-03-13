@@ -39,6 +39,6 @@ st.image(
   width=400, 
   caption= product_caption 
 ) 
-st.write('Price: ', df2[1]) 
+st.write('Price: ',df2[1]) 
 st.write('Sizes Available: ',df2[2]) 
 st.write(df2[3])
